@@ -14,7 +14,7 @@ AHEAD - Joe Fecht - October 2019
 #>
 
 # Defines variable names
-$RGName = "AHD-LabRG01"
+$RGName = "AHD-Lab02-RG01"
 $DockerImage = "privatebin/ahead"
 
 # Create Resource Group
